@@ -1,0 +1,6 @@
+{
+  "name": "InstaBoost Tools",
+  "description": "AI-powered Instagram tools for generating captions, hashtags, and bios using Gemini 2.5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
